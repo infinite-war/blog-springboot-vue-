@@ -12,9 +12,6 @@ import org.springframework.web.method.support.ModelAndViewContainer;
 
 /**
  * 对request中的userVo对像封装方法入参
- *
- * @author ZhouHua
- * @date 2020/09/09
  */
 public class CustomAugmentResolver implements HandlerMethodArgumentResolver {
 
